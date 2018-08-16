@@ -7,6 +7,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "resize-detector": "^0.1.7",
     "vue": "^2.5.17"
   },
   "devDependencies": {
